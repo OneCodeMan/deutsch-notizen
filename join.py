@@ -22,10 +22,6 @@ def build_html_file(content, title="German Lessons"):
     """.format(title=title,content=content)
     return output_content
 
-# config
-path_wkhtmltopdf = r'C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe'
-config = pdfkit.configuration(wkhtmltopdf=path_wkhtmltopdf)
-
 # our target
 all_lessons_html_file = 'all_lessons.html'
 all_lessons_pdf_file = 'german_lessons.pdf'
@@ -45,4 +41,4 @@ all_lessons_html.write(all_lessons_html_content)
 all_lessons_html.close()
 
 # all lessons html to pdf
-pdfkit.from_file(all_lessons_html_file, all_lessons_pdf_file, configuration=config)
+pdfkit.from_file(all_lessons_html_file, all_lessons_pdf_file)
