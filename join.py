@@ -28,6 +28,7 @@ all_lessons_pdf_file = 'german_lessons.pdf'
 
 all_markdown_content = ''
 lesson_files = [f for f in listdir('./lessons') if f.endswith('.md')]
+lesson_files.sort()
 
 for lesson_file in lesson_files:
     input_file = codecs.open('./lessons/' + lesson_file, mode='r', encoding='utf-8')
