@@ -3,13 +3,13 @@
 ## Carmen, 8:00-9:00
 
 ### Vocab
-der Proteinkeks == protein cookie
-der Wettkampf == competition
-ab and zu == every now and then
-der Satz == the sentence
-Chinese == Chinesisch
-Russich == Russian
-Französisch == French
+- der Proteinkeks == protein cookie
+- der Wettkampf == competition
+- ab and zu == every now and then
+- der Satz == the sentence
+- Chinese == Chinesisch
+- Russich == Russian
+- Französisch == French
 
 ### Sentences
 **Lass uns reden**

@@ -163,7 +163,7 @@ Coll: When I hang out with people outside of my hobbies, I like having one-on-on
 (I am surrounded only by English)
 
 **Ich bin nur von Menschen umgeben, die English sprechen**
-(I am surrounded only by people who speak people)
+(I am surrounded only by people who speak English)
 
 **Ich war im Sommer in Berlin**
 (I was in Berlin in the summer)
