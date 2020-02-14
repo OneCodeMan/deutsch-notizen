@@ -54,14 +54,18 @@ werden
 NOT würden
 
 ich werde: i am becoming
+
 ich wurde: i became
+
 ich würde: i would
 
 ich mache / ich machte
+
 ich werde / ich wurde
 
 ### Werden
 ich werde
+
 du wirst
 
 ich fahre, du fährst, er fährt, wir fahren, ihr fahrt, sie fahren
