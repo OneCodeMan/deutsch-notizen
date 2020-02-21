@@ -111,7 +111,7 @@ when you want to know more information
 **Ich löse die Aufgabe mit/in C++**
 (I solve the problems in C++)
 
-**Das ist was den ganzen Tag mache**
+**Das ist was ich den ganzen Tag mache**
 (That is what I am doing all day)
 
 **Ich schaue viele Tutorien bei YouTube**
