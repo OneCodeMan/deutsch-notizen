@@ -14,7 +14,7 @@ I want to talk about my favourite shows and books.
 Staffel(n) == season, but use Jahreszeit for weather
 die Folge == episode
 
-**Black Mirror ist eine gruselig Show/Sending/Serie, die schildert die Gefahr von neuen Technologie. Meine Lieblingsfolge ist Folge zwei von Staffel fünf. Die meisten Folgen sind düster, aber einige Folgen sind.**
+**Black Mirror ist eine gruselig Show/Sending/Serie, die schildert die Gefahr von neuen Technologie. Meine Lieblingsfolge ist Folge zwei von Staffel fünf. Die meisten Folgen sind düster, aber einige Folgen vollwertig sind.**
 
 einig == some (quantity, use to modify a noun)
 etwa == some (unspecified amount)
