@@ -22,6 +22,12 @@ Forming subjunctive:
 - Get simple past stem
 - Add umlaut and/or an '-e'
 
+### Pronunciation
+- wird
+- nebelig
+- süchtig
+- komisch
+
 ### zu... infinitiv
 Es ist schwierig, das zu sagen
 
@@ -49,8 +55,6 @@ Der Angesteller
 
 **Sie hat mir gesagt, dass sie geweint hat, als sie das Buch gelesen hat**
 (She told me that she cried when she read the book)
-
-
 
 ### Off-topic
 Check out Amazon Alexa videos
