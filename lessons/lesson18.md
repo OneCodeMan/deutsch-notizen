@@ -6,6 +6,8 @@
 - die Betonung == the stress
 - verbs: umlaut on second person and third person
 - All Greek words from German tend to be 'das'
+- schwänzen == to skip
+- Ich schwänze meinen Kurs.
 
 ### Mood Subjunctives
 - imperative, indicative, subjunctive, question
