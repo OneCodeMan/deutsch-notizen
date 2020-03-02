@@ -1,7 +1,7 @@
 from collections import Counter
 
 alphabet = 'abcdefghijklmnopqrstuvwxyzäöüß'
-chars_to_remove = '.,?!-:;()*'
+chars_to_remove = '.,?!-–:;()*'
 
 def trim_to_word(word):
     for cr in chars_to_remove:
@@ -16,5 +16,8 @@ if f.mode == 'r':
 contents = contents.lower()
 contents = contents.split()
 contents = [trim_to_word(word) for word in contents]
-frequency = Counter(contents).most_common()
-print(contents)
+frequency_pairs = Counter(contents).most_common()
+# print(frequency_pairs)
+
+for w in frequency_pairs:
+    print(w[0], w[1])
