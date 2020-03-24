@@ -20,11 +20,11 @@ viele Museen
 
 Es ist im Winter nur schön
 
-Ich habe viele Hausarbeiten, die ich nächste Woche abgeben muss
+**Ich habe viele Hausarbeiten, die ich nächste Woche abgeben muss**
 
-Ich bin seit vieren Jahren an der Uni
+**Ich bin seit vieren Jahren an der Uni**
 
-Meine engste Familie == my immediate family
+**Meine engste Familie == my immediate family**
 
 Ich lebe mit einem Mitbewohner
 WG == Wohngemeinschaft
@@ -44,8 +44,8 @@ Hamilton ist ganz bekannt dafür
 
 außer im Sommer
 
-Ich habe in Paris angefangen
-Ich habe die Reise in Venedig beendet
+**Ich habe in Paris angefangen
+Ich habe die Reise in Venedig beendet**
 
 Ungarn == Hungary
 
