@@ -1,3 +1,6 @@
+# NOTE: This document has nothing to do with this Github project. Just needed to host some markdown.
+
+# CS 4ZP6 2020 - Design Doc Rubric
 ![Rubric](https://imgur.com/5HC1frU.png)
 You will refine your SRS into something that better describes the software that you will (or ought to) implement. Of course, you should incorporate the lessons learned through implementing your prototype in here.  The deliverable will consist of the following information:
 
